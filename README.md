@@ -1,3 +1,3 @@
-Visit de website:
+Visit the website:
 
 https://antenah.netlify.app/
